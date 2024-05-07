@@ -1,0 +1,7 @@
+D:\GitHub\practical-6.6\practical\practical\bin\Debug\practical.exe.config
+D:\GitHub\practical-6.6\practical\practical\bin\Debug\practical.exe
+D:\GitHub\practical-6.6\practical\practical\bin\Debug\practical.pdb
+D:\GitHub\practical-6.6\practical\practical\obj\Debug\practical.csproj.AssemblyReference.cache
+D:\GitHub\practical-6.6\practical\practical\obj\Debug\practical.csproj.CoreCompileInputs.cache
+D:\GitHub\practical-6.6\practical\practical\obj\Debug\practical.exe
+D:\GitHub\practical-6.6\practical\practical\obj\Debug\practical.pdb
